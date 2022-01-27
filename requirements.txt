@@ -1,0 +1,10 @@
+einops==0.3.0
+kornia==0.5.11
+lightning_bolts==0.4.0
+lycon==0.2.0
+matplotlib==3.3.2
+numpy==1.19.1
+Pillow==9.0.0
+pytorch_lightning==1.0.7
+torch==1.7.0
+torchvision==0.11.1
